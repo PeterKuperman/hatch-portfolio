@@ -4,6 +4,7 @@ body {
 }
 
 .column {
+    max-width: 480px
     float: left;
     width: 50%;
 }
